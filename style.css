@@ -13,7 +13,7 @@ body {
 
 /* Home start */
 .Home { color: white; text-align: center;background-image: url(images/bg-img.JPG );background-size: cover; background-repeat: no-repeat;background-attachment: fixed; padding-top: 7%; padding-bottom: 7%;}
-.Home h1 {font-weight: 800; font-size: 3em; margin-top: 15px; padding-bottom: 15px;}
+.Home h1 {font-weight: 800; font-size: 30px; margin-top: 15px; padding-bottom: 15px;}
 .Home h6 {margin-bottom: 50px;}
 .Home a { text-decoration: none; color: rgb(197, 160, 103); border: 2px solid rgb(197, 160, 103); padding: 15px 30px 15px 30px;}
 .Home a:hover {background-color:rgb(197, 160, 103) ; color: white; transition: 0.3s;}
@@ -21,10 +21,11 @@ body {
 
 /* About start */
 .profile-pic img {width: 100%; height: auto; margin-bottom: 100px;}
-.profile-text {color: white; padding-left: 10%;}
+.profile-text {color: white; padding-left: 10%; }
 .profile-text h3 {color:rgb(197, 160, 103) ; font-weight: 800; margin: 30px 0 30px 0;}
 .About-bg {background-color: black; padding-top: 10%;}
 .profile-text .icons i{color: white;}
+.profile-text .age{padding-left: 60px;}
 .profile-text .icons a{padding: 7px; border: 1px solid white;}
 .profile-text a {margin-right: 10px;text-decoration: none; color: rgb(197, 160, 103); border: 2px solid rgb(197, 160, 103); padding: 15px 30px 15px 30px;}
 .profile-text a:hover{background-color:rgb(197, 160, 103) ; color: white; transition: 0.3s;}
@@ -34,7 +35,8 @@ body {
 .my-skill {color: white; padding-bottom: 70px;}
 .my-skill h3{font-weight: 800;margin: 50px 0 50px 0; color:rgb(197, 160, 103) ;}
 .my-skill h6{font-weight: 600;}
-.Education p{margin-bottom: 40px;}
+.Education {margin-bottom: 40px; text-align: center;}
+.Experience{text-align: center;}
 .Skills .progress-bar {background-color:rgb(197, 160, 103) ;}
 /* my-skill end */
 
@@ -101,7 +103,7 @@ body {
 .Quotes-bg p{ font-size: 25px; line-height: 40px; text-indent: 20px; font-style: italic;}
 .Quotes i{font-size: 60px; color:rgb(197, 160, 103) ;}
 .carousel-inner img{width: auto;}
-.Quotes-bg h5{margin-top: 35px; margin-left: 30px;}
+.Quotes-bg h5{margin-top: 35px; margin-left: 40px;}
 /* Quotes end */
 
 /* our-works start */
@@ -282,11 +284,11 @@ h1 {
 .contact-us-bg {background-color:rgb(8, 8, 8)  ; padding: 100px 0 200px 0; text-align: center;}
 .contact-us-bg h3{color:rgb(197, 160, 103) ; font-weight: 800;}
 .contact-us-bg p{color: white;margin-top: 15px;}
-.contact-us-bg i{font-size: 30px; color: rgb(197, 160, 103); float: right;}
+.contact-us-bg i{font-size: 30px; color: rgb(197, 160, 103); float: right; padding: 30px;}
 .contact-us-bg h5{ color: white; font-weight: 800;}
 .contact-us-bg span{color: white;}
 .contact-us-bg .col-4{margin-top: 30px;}
-.contact-us-bg .contact {margin: 100px 0 70px 0; text-align: left;}
+.contact-us-bg .contact {margin: 100px 0 70px 0; text-align: center;}
 .contact-us-bg button {
     background-color:rgb(8, 8, 8); ;
     padding: 15px 30px 15px 30px;
@@ -302,7 +304,7 @@ h1 {
 
 /* footer start */
 .footer-bg{background-color: rgb(8, 8, 8);padding: 50px 0 50px 0;}
-.footer-bg img{width: 80%;}
+.footer-bg img{width: 80%; }
 .footer-bg .navbar-collapse {padding-left: 10%;}
 .footer-bg .navbar-collapse li a{color: white;}
 .footer-bg .navbar-collapse li :hover{color: rgb(197, 160, 103)}
