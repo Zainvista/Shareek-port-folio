@@ -302,7 +302,7 @@ h1 {
 
 /* footer start */
 .footer-bg{background-color: rgb(8, 8, 8);padding: 50px 0 50px 0;}
-.footer-bg img{width: 80%; float: right;}
+.footer-bg img{width: 80%;}
 .footer-bg .navbar-collapse {padding-left: 10%;}
 .footer-bg .navbar-collapse li a{color: white;}
 .footer-bg .navbar-collapse li :hover{color: rgb(197, 160, 103)}
