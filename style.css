@@ -13,7 +13,7 @@ body {
 
 /* Home start */
 .Home { color: white; text-align: center;background-image: url(images/bg-img.JPG );background-size: cover; background-repeat: no-repeat;background-attachment: fixed; padding-top: 7%; padding-bottom: 7%;}
-.Home h1 {font-weight: 800; font-size: 30px; margin-top: 15px; padding-bottom: 15px;}
+.Home h1 {font-weight: 800; font-size: 50px; margin-top: 15px; padding-bottom: 15px;}
 .Home h6 {margin-bottom: 50px;}
 .Home a { text-decoration: none; color: rgb(197, 160, 103); border: 2px solid rgb(197, 160, 103); padding: 15px 30px 15px 30px;}
 .Home a:hover {background-color:rgb(197, 160, 103) ; color: white; transition: 0.3s;}
@@ -35,8 +35,8 @@ body {
 .my-skill {color: white; padding-bottom: 70px;}
 .my-skill h3{font-weight: 800;margin: 50px 0 50px 0; color:rgb(197, 160, 103) ;}
 .my-skill h6{font-weight: 600;}
-.Education {margin-bottom: 40px; text-align: center;}
-.Experience{text-align: center;}
+.Education {margin-bottom: 40px; text-align: left;}
+.Experience{text-align: left;}
 .Skills .progress-bar {background-color:rgb(197, 160, 103) ;}
 /* my-skill end */
 
@@ -284,7 +284,7 @@ h1 {
 .contact-us-bg {background-color:rgb(8, 8, 8)  ; padding: 100px 0 200px 0; text-align: center;}
 .contact-us-bg h3{color:rgb(197, 160, 103) ; font-weight: 800;}
 .contact-us-bg p{color: white;margin-top: 15px;}
-.contact-us-bg i{font-size: 30px; color: rgb(197, 160, 103); float: right; padding: 30px;}
+.contact-us-bg i{font-size: 30px; color: rgb(197, 160, 103); float: right; padding: 10px;}
 .contact-us-bg h5{ color: white; font-weight: 800;}
 .contact-us-bg span{color: white;}
 .contact-us-bg .col-4{margin-top: 30px;}
@@ -393,7 +393,7 @@ h1 {
     color: white; /* Text color */
     cursor: pointer; /* Add a mouse pointer on hover */
     padding: 10px; /* Some padding */
-    border-radius: 25%; /* Rounded corners */
+    border-radius: 20%; /* Rounded corners */
     font-size: 18px; /* Increase font size */
   }
   
