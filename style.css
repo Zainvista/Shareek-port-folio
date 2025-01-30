@@ -39,7 +39,7 @@ body {
 .About-bg .bi-pinterest:hover {color: #E60023;}
 .About-bg .bi-instagram:hover {color: #F56040;}
 .About-bg .areekode a{text-decoration: none; color: rgb(197, 160, 103); padding: 10px; border:2px rgb(197, 160, 103) solid ; float: right;}
-.About-bg .areekode a:hover{background-color: rgb(197, 160, 103);}
+.About-bg .areekode a:hover{background-color: rgb(197, 160, 103); color: white;}
 /* About end */
 
 
