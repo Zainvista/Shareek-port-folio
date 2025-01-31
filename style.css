@@ -32,12 +32,12 @@ body {
 .profile-pic img {width: 100%; height: auto; }
 .profile-text {color: white;}
 .profile-text h3 {color:rgb(197, 160, 103) ; font-weight: 800; margin: 30px 0 30px 0;}
-.profile-text .icons i{color: white; padding: 5px;}
+.profile-text .icons i{color: white; padding: 4px;}
 .About-bg .bi-globe:hover {color: #0e90b8;}
 .About-bg .bi-facebook:hover {color: #1877F2;}
 .About-bg .bi-twitter:hover {color: #1DA1F2;}
 .About-bg .bi-pinterest:hover {color: #E60023;}
-.About-bg .bi-instagram:hover {color: #F56040;}
+.About-bg .bi-instagram:hover {color: #ff00f2;}
 .About-bg .areekode a{text-decoration: none; color: rgb(197, 160, 103); padding: 10px; border:2px rgb(197, 160, 103) solid ; float: right;}
 .About-bg .areekode a:hover{background-color: rgb(197, 160, 103); color: white;}
 /* About end */
@@ -310,7 +310,7 @@ h1 {
 /* contact-us start */
 .contact-us-bg {background-color:rgb(8, 8, 8)  ; padding: 100px 0 100px 0; text-align: center; color: white;}
 .contact-us-bg h3{color:rgb(197, 160, 103) ; font-weight: 800;}
-.contact-us-bg i{font-size: 30px;; color:rgb(197, 160, 103) ;}
+.contact-us-bg i{font-size: 30px;; color:rgb(197, 160, 103) ;margin-top: 20px; }
 .contact-us-bg h5{ font-weight: 800;}
 .contact-icons {padding: 100px 0 100px 0;}
 .contact-us-bg button {
