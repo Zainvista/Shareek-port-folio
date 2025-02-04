@@ -58,7 +58,7 @@ body {
 
 
 /* Available start */
-.Available-bg { background-color: rgb(8, 8, 8); color: white; text-align: center; padding: 100px 0 100px 0;}
+.Available-bg { background-color: rgb(8, 8, 8); color: white; text-align: center; padding: 100px 0 100px 0; background-image: url(images/phil-desforges.jpg);background-size: cover; background-repeat: no-repeat; background-attachment: fixed; background-position: center;}
 .Available-bg h1{font-weight: 800;}
 .Available-bg p{font-size: 20px; margin-bottom: 30px;}
 /* Available end */
@@ -112,7 +112,8 @@ body {
 .face.front h2{
     font-size: 20px;
     color: #fff;
-    transition: all .5s ease;}
+    transition: all .5s ease;
+text-align: center;}
 .container .card:hover .face.front h2{
    font-size:0;}
 /* Our Services end */
@@ -353,7 +354,7 @@ h1 {
 .footer-bg .bi-instagram:hover{color: rgb(255, 0, 234);}
 .copyright-bg {background-color: black; padding: 50px 0 50px 0;}
 .copyright-bg {display: flex; color: white; justify-content: center;}
-.copyright-bg p{font-size: 12px;}
+.copyright-bg p{font-size: 12px; text-align: center;}
 /* footer end */
 
 
