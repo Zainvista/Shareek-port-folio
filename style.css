@@ -86,6 +86,7 @@ body {
 .container .card .face.hidden{
     padding: 50px;}
 .container .card .face.hidden h2{font-size: 20px; color: rgb(197, 160, 103); font-weight: 700;}
+.face.hidden p {font-size: 14px;}
 .container .card .face.front{
     display: grid;
     grid-template-rows:175px 100px;
