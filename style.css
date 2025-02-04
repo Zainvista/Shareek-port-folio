@@ -58,7 +58,7 @@ body {
 
 
 /* Available start */
-.Available-bg { background-color: rgb(8, 8, 8); color: white; text-align: center; padding: 100px 0 100px 0; background-image: url(images/phil-desforges.jpg);background-size: cover; background-repeat: no-repeat; background-attachment: fixed; background-position: center;}
+.Available-bg {color: white; text-align: center; padding: 100px 0 100px 0; background-image: url(images/phil-desforges.jpg);background-size: cover; background-repeat: no-repeat; background-attachment: fixed; background-position: center;}
 .Available-bg h1{font-weight: 800;}
 .Available-bg p{font-size: 20px; margin-bottom: 30px;}
 /* Available end */
